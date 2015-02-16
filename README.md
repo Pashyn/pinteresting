@@ -3,4 +3,4 @@
 This is the pinteresting sample application for
 [*One Month Rails*](http://onemonthrails.com)
 
-by [Pashyn](pash.neriumnextgen.com) 
+by [Pashyn](http://pash.neriumnextgen.com) 
